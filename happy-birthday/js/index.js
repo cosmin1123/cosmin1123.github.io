@@ -1,6 +1,6 @@
 
-var to = 'Ana!';
-var gift_url = 'https://www.amazon.co.uk/kindle/redeem/?t=GS7JXML7V9PKBA8';
+var to = 'Claudia!';
+var gift_url = 'https://www.youtube.com/watch?v=LzLZGG4_GjY';
 var gift_image_url = 'birthday-quote.jpg';
 
 
