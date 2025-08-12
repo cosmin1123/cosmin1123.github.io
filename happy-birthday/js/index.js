@@ -1,6 +1,6 @@
 
-var to = 'Adi!';
-var gift_url = 'https://www.youtube.com/watch?v=LzLZGG4_GjY';
+var to = 'Viki!';
+var gift_url = 'https://www.youtube.com/watch?v=npRc-fks_ZI';
 var gift_image_url = 'birthday-quote.jpg';
 
 
